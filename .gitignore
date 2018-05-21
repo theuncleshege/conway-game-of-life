@@ -1,0 +1,5 @@
+# PHPStorm Config Files
+.idea/
+
+# MacOSX Files
+.DS_Store
